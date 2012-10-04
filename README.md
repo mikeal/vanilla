@@ -19,7 +19,8 @@ You can find the specification for the Vanilla language [here](http://es5.github
 * readability
 * maintainability
 * debugability
+* vanilla supports vapor.js
 
 ### Install
 
-$ npm install -g vanilla
+$ npm install -g vanillajs

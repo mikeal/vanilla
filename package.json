@@ -1,6 +1,6 @@
 {
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
-  "name": "vanilla",
+  "name": "vanillajs",
   "description": "Compile-to-JavaScript language for people that write JavaScript",
   "version": "0.0.0",
   "main": "index.js",
