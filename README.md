@@ -8,7 +8,17 @@ $ vanilla myfile.js target.js
 
 ### Language
 
-You can find the specification for the Vanilla language [here]().
+You can find the specification for the Vanilla language [here](http://es5.github.com/).
+
+### Features
+
+* closures
+* functions
+* app scale
+* web scale
+* readability
+* maintainability
+* debugability
 
 ### Install
 
