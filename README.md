@@ -1,5 +1,7 @@
 ## vanilla.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mikeal/vanilla.svg)](https://greenkeeper.io/)
+
 Vanilla.js is a compile-to JavaScript language for people that write JavaScript.
 
 ### Usage
